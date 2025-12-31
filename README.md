@@ -53,9 +53,9 @@ src
 
 ---
 
-## Video
+## Download game
 
-- Video: https://youtu.be/EY-_UP_FLqs
+Download: https://dxgiang.itch.io/guess-pin-code
 
 ---
 
